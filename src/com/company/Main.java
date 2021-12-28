@@ -22,7 +22,8 @@ public class Main {
 
         double answer = totalSumma / kolichestvo;
         System.out.println("Ответ: " + answer);
-        
+
+        System.out.println("GeekTech");
 
     }
 
